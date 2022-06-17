@@ -22,9 +22,3 @@ Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
 Fixes #
 
 **Any important notes for reviewers?**:
-
-**Please consider adding some release notes**:
-
-```release-note
-
-```
