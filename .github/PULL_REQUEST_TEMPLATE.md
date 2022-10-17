@@ -6,6 +6,7 @@
 - api-change
 - bugfix
 - cleanup/refactor
+- configuration
 - design
 - documentation
 - test
